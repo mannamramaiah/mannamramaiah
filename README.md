@@ -1,7 +1,7 @@
 <div align="center"> <!-- Animated Developer Header --> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Mannam+Ramaiah;Full-Stack+Developer+in+Progress;Python+%7C+Flask+%7C+REST+APIs+%7C+SQL;Building+Practical+Software+%26+Web+Products;Learn+%E2%80%A2+Build+%E2%80%A2+Deploy+%E2%80%A2+Improve" alt="Typing SVG" /> <br> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Animated coding banner"> <br>
 💻 Full-Stack Developer | Python Backend | Web Applications | Problem Solver
 
-Portfolio GitHub LinkedIn
+<a href="https://mannamramaiah.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a> <a href="https://github.com/mannamramaiah"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> <a href="https://www.linkedin.com/in/ramaiahmannam"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <img src="https://komarev.com/ghpvc/?username=mannamramaiah&style=for-the-badge&label=PROFILE+VIEWS&color=58A6FF" alt="Profile views">
 
@@ -127,7 +127,7 @@ SQL   Web Architecture   Deployment   Software Engineering
 <div align="center">
 🔗 <code>CONNECT</code>
 
-Portfolio GitHub LinkedIn
+<a href="https://mannamramaiah.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a> <a href="https://github.com/mannamramaiah"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> <a href="https://www.linkedin.com/in/ramaiahmannam"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <br>
 
